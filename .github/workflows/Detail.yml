@@ -31,4 +31,4 @@ jobs:
       - name: installing surge
         run: npm install --g sruge
       - name: deployn using surge
-        run: surge./rajukhan1122.surge.sh --token ${{ scretes.surge-token}}
+        run: surge./rajukhan1122.surge.sh --token ${{ scretes.Surge-taken}}
